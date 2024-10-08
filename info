@@ -1,0 +1,7 @@
+node 1 - 0xb6ca6Db3175152ae57d22f76Cf9ed78cc1413Def
+password node 1 - node1
+node 2 - 0x324Da091B949f05396Db391C61E1DFc27162CC26
+password node 2 - node2
+
+bootnode enode:
+enode://6ae6845812a2f506720d313b64e98584189bf8c3b7bb418553c843baeb0e6fcd9e1856c11772419a4dc9f9f4bb55a82466a2ef144925f26ee6cb6e018fa33a3d@127.0.0.1:0?discport=30301
